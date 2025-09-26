@@ -77,9 +77,9 @@ git clone https://github.com/yourusername/philips-bike-shop-analytics.git
 
 Open SQL scripts in SQL Server to reproduce data transformations.
 
-Open the Power BI file (.pbix) to explore the dashboard for interactive dashboards. A pdf version is also included for 
+Open the Power BI file (.pbix) to explore the dashboard for interactive visualizations. A pdf version is also included for 
 easy access of the visualization. 
-See the the report and analysis pptx file for overall analysis and recommendations for pricing.
+See the the report.pptx file for overall analysis and recommendations for pricing.
 
 📌 Project Status
 
